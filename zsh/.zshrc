@@ -142,3 +142,4 @@ export GPG_TTY=$(tty)
 
 # opencode
 export PATH=$HOME/.opencode/bin:$PATH
+source ~/.config/zsh/.todo
