@@ -20,3 +20,6 @@ nvim/lazy-lock.json
 opencode/node_modules/
 opencode/bun.lock
 opencode/package.json
+
+# Zed binary databases
+zed/prompts/prompts-library-db.0.mdb/
